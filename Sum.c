@@ -19,3 +19,15 @@ int main()
     }
     return 0;
 }
+/*
+inp = how many times
+eg. inp = x
+1st b = y
+sum = sigma from i=1 to y
+2nd b = z
+sum = sigma from i=1 to z
+3rd
+ .
+ .
+ .
+*/ 
